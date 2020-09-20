@@ -12,7 +12,9 @@ class stack():
             return self.ele[-1]
     def getstack(self):
         return self.ele
-
+    def reverse(self):
+            return self.ele.reverse()
+            
 s=stack()
 print(s.isempty())
 s.push("s")
@@ -28,3 +30,5 @@ print(s.isempty())
 
 print(s.getstack())
 print(s.peek())
+s.reverse()
+print(s.getstack())
