@@ -70,4 +70,35 @@ W W W W W W W W W W W W W W W W W W W W W W W
 X X X X X X X X X X X X X X X X X X X X X X X X 
 Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y 
 Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z '''
+
+for i in range(len(a)):
+    print("")
+    if(i==6):
+        break
+    for j in range(0,i+1):
+        print(a[j],end=" ")
+'''o/p
+A 
+A B 
+A B C 
+A B C D 
+A B C D E 
+A B C D E F '''
+
+for i in range(len(a)):
+    print("")
+    if(i==6):
+        break
+    for j in range(0,i+1):
+        j=i
+        print(a[j],end=" ")
+
+'''o/p
+A 
+B B 
+C C C 
+D D D D 
+E E E E E 
+F F F F F F '''
+
  
