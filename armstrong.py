@@ -30,4 +30,4 @@ enter the digit4
 enter the digit0
 enter the digit7
 407 is armstrong
->>> '''
+'''
