@@ -1,1 +1,13 @@
+#take string from user 
+str=input("enter the string")
+punctuation="!()-{};:'''\,<>./?@#$%^&*_~"  #assign special charcters to one variable
+no_punctuation=""
+for i in str:
+    if i not in punctuation:#remove punctuation and store in one variable
+        no_punctuation=no_punctuation+i
+print(no_punctuation)  #print  new string
 
+
+'''o/p:
+enter the stringswathi@16^2%20
+swathi16220'''
