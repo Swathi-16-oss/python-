@@ -7,7 +7,7 @@ while(n>0):
 s=str(''.join(str(i) for i in a))
 bin=s[::-1]
 print(bin)
-#for 10 it take 010 
+#for 10 it take 010(exception)
 if(len(bin)==2 and bin.find("10")>-1):
     print("yes")
 elif bin.find("01")>-1 and bin.find("10")>-1:
