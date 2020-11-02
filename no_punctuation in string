@@ -1,4 +1,4 @@
-#take string from user 
+ #take string from user 
 str=input("enter the string")
 punctuation="!()-{};:'''\,<>./?@#$%^&*_~"  #assign special charcters to one variable
 no_punctuation=""
