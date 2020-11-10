@@ -21,7 +21,6 @@ enter number4
 100
 no
 >>> 
-===============
 enter number5
 101
 yes
