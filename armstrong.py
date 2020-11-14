@@ -10,8 +10,6 @@ for i in range(1,n+1):
     list.append(a)
 for j in range(0,len(list)):
                total=total+list[j]
-
-
 b=int(''.join(str(k) for k in list1))
 if(b==total):
     print(b,"is armstrong")
@@ -23,8 +21,7 @@ enter the digit4
 enter the digit0
 enter the digit4
 404 is not armstrong
->>> 
->>> 
+>>>  
 enter number of digits3
 enter the digit4
 enter the digit0
