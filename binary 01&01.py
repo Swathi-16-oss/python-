@@ -15,7 +15,6 @@ elif bin.find("01")>-1 and bin.find("10")>-1:
 else:
     print("no")
 
-    
 '''o/p:
 enter number4
 100
