@@ -21,7 +21,7 @@ enter the digit4
 enter the digit0
 enter the digit4
 404 is not armstrong
->>>  
+>>>>>>>>>>> 
 enter number of digits3
 enter the digit4
 enter the digit0
