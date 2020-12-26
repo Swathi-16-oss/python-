@@ -27,7 +27,6 @@ enter no of females24
 percentage of male is 40%
 percentage of female is 60%'''
 
-
 M=int(input("enter no of males"))
 total=int(input("enter total students"))
 F=total-M
