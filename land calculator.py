@@ -32,7 +32,6 @@ else:
     print("please enter the shape")
     
     
-    
 '''o/p:
 enter the shapeland
 enter the acre of land234
