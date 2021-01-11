@@ -9,5 +9,4 @@ que.append('h')
 que.append('i')
 print(que)
 print(que.popleft())
-
 print(que)
