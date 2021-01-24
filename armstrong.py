@@ -15,6 +15,8 @@ if(b==total):
     print(b,"is armstrong")
 else:
     print(b,"is not armstrong")
+
+    
 '''o/p:
 enter number of digits3
 enter the digit4
