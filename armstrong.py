@@ -17,6 +17,7 @@ else:
     print(b,"is not armstrong")
 
     
+
 '''o/p:
 enter number of digits3
 enter the digit4
